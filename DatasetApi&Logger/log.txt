@@ -1,0 +1,14 @@
+2024-10-31 06:08:52.415010: No internet connection. Exiting.
+/bin/sh: /Users/kaushalnandaniya/Desktop/Nothing/Python/assetDataApi.py: Permission denied
+/bin/sh: /Users/kaushalnandaniya/Desktop/Nothing/Python/assetDataApi.py: Operation not permitted
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/kaushalnandaniya/Desktop/Nothing/Python/assetDataApi.py': [Errno 1] Operation not permitted
+Error fetching data from https://api.mfapi.in/mf/129046: Response ended prematurely
+Inserted: Fund Name: Motilal Oswal Nifty Bank Index Fund - Direct Plan, Latest NAV: 18.97360, Date: 2024-10-31
+Inserted: Fund Name: Motilal Oswal Midcap Fund-Direct Plan-Growth Option, Latest NAV: 117.14840, Date: 2024-10-31
+Inserted: Fund Name: Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option, Latest NAV: 14.17850, Date: 2024-10-31
+Inserted: Fund Name: Motilal Oswal Large and Midcap Fund - Direct Plan Growth, Latest NAV: 35.27650, Date: 2024-10-31
+Inserted: Fund Name: Motilal Oswal Flexi cap Fund Direct Plan-Growth Option, Latest NAV: 65.75790, Date: 2024-11-08
+Inserted: Fund Name: Motilal Oswal Nifty Bank Index Fund - Direct Plan, Latest NAV: 19.00550, Date: 2024-11-08
+Inserted: Fund Name: Motilal Oswal Midcap Fund-Direct Plan-Growth Option, Latest NAV: 120.10200, Date: 2024-11-08
+Inserted: Fund Name: Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option, Latest NAV: 14.14500, Date: 2024-11-08
+Inserted: Fund Name: Motilal Oswal Large and Midcap Fund - Direct Plan Growth, Latest NAV: 34.89170, Date: 2024-11-08
